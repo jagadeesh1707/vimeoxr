@@ -1,3 +1,4 @@
+require('dotenv')
 const Vimeo = require('vimeo').Vimeo;
 const express = require('express');
 const hostValidation = require('host-validation')
